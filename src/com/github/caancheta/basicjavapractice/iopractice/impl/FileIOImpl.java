@@ -8,7 +8,7 @@ import com.github.caancheta.basicjavapractice.iopractice.FileIO;
 
 /**
  * @author caanchet
- * */
+ */
 public class FileIOImpl implements FileIO {
 
   @Override
@@ -22,7 +22,7 @@ public class FileIOImpl implements FileIO {
     // TODO Implement the initFileWriter method
     return null;
   }
-  
+
   public static void main(String[] args) {
     // TODO Auto-generated method stub
 
